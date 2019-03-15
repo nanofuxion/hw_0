@@ -1,0 +1,71 @@
+header {
+    text-align: center;
+    background: grey;
+    padding: 25px 30%;
+    margin: 5px 0px 10px 0px;
+}
+
+nav {
+    text-align: center;
+    background: grey;
+    padding: 25px 30%;
+    margin: 5px 0px 28.468px 0px;
+}
+
+.topbox {
+    display: block;
+    position: absolute;
+    margin: 5px 0px 5px 0px;
+}
+
+article {
+    text-align: center;
+    background: darkgray;
+    margin: 30px 15px 0px 15px;
+    padding: 25px 5px 15px 5px;
+    clear: both;
+}
+
+section {
+    text-align: center;
+    background: lightgrey;
+    float: left;
+    margin: 0px 1% 0px 0px;
+    padding: 7% 0px 7% 0px;
+    clear: both;
+    width: 49%;
+    height: 205px;
+}
+
+aside {
+    text-align: center;
+    background: grey;
+    float: left;
+    margin: 0px 0px 0px 1%;
+    padding: 7% 0px 7% 0px;
+    width: 49%;
+    height: 205px;
+}
+
+.in-sect {
+    text-align: center;
+    width: 25%;
+    background: blue;
+    padding: 30px 35% 30px 35%;
+    margin: 5px 15px 5px 15px;
+}
+
+.mid .toppart .butt {
+    display: block;
+    width: 100%;
+}
+
+p {}
+
+footer {
+    text-align: center;
+    background: grey;
+    padding: 25px 48.7%;
+    margin: 28.468px 0px 5px 0px;
+    float: right;
+}
